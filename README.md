@@ -1,5 +1,10 @@
 Install cv2, numpy, skimage and matplotlib
 Python version 3 or above are recommended
+------------------------------------------------------------------
+Output of the code - 
+<img width="1280" height="582" alt="Screenshot 2025-10-26 at 10 37 24 AM" src="https://github.com/user-attachments/assets/4390b3f3-0eaf-4f06-b4c9-24a7eaef8af8" />
+
+------------------------------------------------------------------
 <img width="796" height="664" alt="Screenshot 2025-10-26 at 10 35 04 AM" src="https://github.com/user-attachments/assets/c1906cd5-286d-463f-a8a1-ce8396bbba43" />
 <img width="767" height="668" alt="Screenshot 2025-10-26 at 10 36 55 AM" src="https://github.com/user-attachments/assets/09374668-1587-4da1-87dd-51a91e1402d8" />
 <img width="1088" height="670" alt="Screenshot 2025-10-26 at 10 36 28 AM" src="https://github.com/user-attachments/assets/41ba3a90-c93d-4f69-ac6c-fc913e993420" />
